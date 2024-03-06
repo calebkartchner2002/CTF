@@ -11,7 +11,7 @@ Outside of technical preparation, we have prepared a plan for how we will develo
 
 The below table outlines each member's topic:
 | Group Member | Topic |
-| -------- | --------- |
+| :-------- | :--------- |
 | Caleb | Cryptography |
 | Antonio | Password Cracking |
 | Thomas | Network/Packet Analysis |
